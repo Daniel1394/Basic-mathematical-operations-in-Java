@@ -3,7 +3,6 @@
  */
 package suma.de.dos.números;
 
-import java.util.Scanner;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JLabel;
