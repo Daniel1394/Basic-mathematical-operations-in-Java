@@ -77,7 +77,7 @@ public class SumaDeDosNúmeros {
     
 }
 /*
-* En este código solo se muestra como solicitar valores numpericos al usuario y realizar operaciones básicas
+* En este código solo se muestra como solicitar valores numèricos al usuario y realizar operaciones básicas
 matemáticas con la finalidad de que el desarrollador tenga una base para crear una calculadores u otros programas donde
 estas bases le sean de ayuda.
 */
